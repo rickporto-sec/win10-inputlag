@@ -17,4 +17,4 @@
 &nbsp;
 ![](https://github.com/Orbmu2k/nvidiaProfileInspector/blob/master/nspector/Images/4_gear_nv2.png)&nbsp;&nbsp;&nbsp;**Custom Profile**
 
-* https://raw.githubusercontent.com/rickporto-sec/fix-inputlag/main/nvidiaProfileInspector/nvidiaProfileInspector.nip
+* https://raw.githubusercontent.com/rickporto-sec/win10-inputlag/main/nvidia/nvidiaProfileInspector.nip

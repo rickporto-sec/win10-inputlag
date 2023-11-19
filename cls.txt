@@ -1,0 +1,14 @@
+del /q/f/s %TEMP%\*
+DISM.exe /Online /Cleanup-Image /RestoreHealth
+DISM.exe /Online /Cleanup-Image /CheckHealth
+DISM.exe /Online /Cleanup-Image /ScanHealth
+DISM.exe /Online /Cleanup-Image /StartComponentCleanup
+DISM.exe /Online /Cleanup-Image /SPSuperseded
+DISM.exe /Online /Cleanup-Image /StartComponentCleanup /ResetBase
+sfc /scannow
+chkdsk /f
+defrag /c /o
+cleanmgr
+echo off | clip
+del /q/f/s %TEMP%\*
+rd /s %systemdrive%\$Recycle.bin

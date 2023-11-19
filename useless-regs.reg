@@ -1,0 +1,470 @@
+Windows Registry Editor Version 5.00
+
+
+; ########                             ##########;
+;
+; ########                             ##########;
+
+
+; {{[HKCU]}} #####################################
+; #
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\GameDVR]
+"KGLToGCSUpdatedRevision"=dword:00000000
+"KGLRevision"=dword:00000000
+"LastGameActivity"=hex(b):00,00,00,00,00,00,00,00
+"AudioEncodingBitrate"=dword:00000000
+"AudioCaptureEnabled"=dword:00000000
+"CustomVideoEncodingBitrate"=dword:00000000
+"CustomVideoEncodingHeight"=dword:00000000
+"CustomVideoEncodingWidth"=dword:00000000
+"AppCaptureEnabled"=dword:00000000
+"HistoricalBufferLength"=dword:00000000
+"HistoricalBufferLengthUnit"=dword:00000000
+"HistoricalCaptureEnabled"=dword:00000000
+"HistoricalCaptureOnBatteryAllowed"=dword:00000000
+"HistoricalCaptureOnWirelessDisplayAllowed"=dword:00000000
+"MaximumRecordLength"=hex(b):00,00,00,00,00,00,00,00
+"VideoEncodingBitrateMode"=dword:00000000
+"VideoEncodingResolutionMode"=dword:00000000
+"VideoEncodingFrameRateMode"=dword:00000000
+"EchoCancellationEnabled"=dword:00000000
+"CursorCaptureEnabled"=dword:00000000
+"VKToggleGameBar"=dword:00000000
+"VKMToggleGameBar"=dword:00000000
+"VKSaveHistoricalVideo"=dword:00000000
+"VKMSaveHistoricalVideo"=dword:00000000
+"VKToggleRecording"=dword:00000000
+"VKMToggleRecording"=dword:00000000
+"VKTakeScreenshot"=dword:00000000
+"VKMTakeScreenshot"=dword:00000000
+"VKToggleRecordingIndicator"=dword:00000000
+"VKMToggleRecordingIndicator"=dword:00000000
+"VKToggleMicrophoneCapture"=dword:00000000
+"VKMToggleMicrophoneCapture"=dword:00000000
+"VKToggleCameraCapture"=dword:00000000
+"VKMToggleCameraCapture"=dword:00000000
+"VKToggleBroadcast"=dword:00000000
+"VKMToggleBroadcast"=dword:00000000
+"MicrophoneCaptureEnabled"=dword:00000000
+"SystemAudioGain"=hex(b):00,00,00,00,00,00,00,00
+"MicrophoneGain"=hex(b):00,00,00,00,00,00,00,00
+[HKEY_CURRENT_USER\System\GameConfigStore]
+"GameDVR_Enabled"=dword:00000000
+"GameDVR_FSEBehavior"=dword:00000000
+"GameDVR_FSEBehaviorMode"=dword:00000000
+"GameDVR_HonorUserFSEBehaviorMode"=dword:00000000
+"GameDVR_DXGIHonorFSEWindowsCompatible"=dword:00000000
+"GameDVR_EFSEFeatureFlags"=dword:00000000
+"Win32_AutoGameModeDefaultProfile"=hex:02,00,01,00,00,00,c4,20,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00
+"Win32_GameModeRelatedProcesses"=hex:01,00,01,00,01,00,c0,00,c6,02,50,54,c7,02,\
+  70,00,61,00,6e,00,65,00,6c,00,2e,00,65,00,78,00,65,00,00,00,8c,00,4e,8d,e1,\
+  74,b8,ed,d2,02,18,4c,c7,02,1e,00,00,00,b8,ed,d2,02,1e,00,00,00,0f,00,00,00,\
+  30,e7,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00
+[HKEY_CURRENT_USER\Control Panel\Mouse]
+"MouseSensitivity"="10"
+"MouseSpeed"="0"
+"MouseThreshold1"="0"
+"MouseThreshold2"="0"
+"SmoothMouseXCurve"=hex:\
+	00,00,00,00,00,00,00,00,\
+	C0,CC,0C,00,00,00,00,00,\
+	80,99,19,00,00,00,00,00,\
+	40,66,26,00,00,00,00,00,\
+	00,33,33,00,00,00,00,00
+"SmoothMouseYCurve"=hex:\
+	00,00,00,00,00,00,00,00,\
+	00,00,38,00,00,00,00,00,\
+	00,00,70,00,00,00,00,00,\
+	00,00,A8,00,00,00,00,00,\
+	00,00,E0,00,00,00,00,00
+; #
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"MouseWheelRouting"=dword:00000000
+[HKEY_CURRENT_USER\Control Panel\Cursors]
+"ContactVisualization"=dword:00000000
+"GestureVisualization"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Notifications\Settings]
+"QuietHoursTelemetryLastRun"=hex(b):00,00,00,00,00,00,00,00
+"NOC_GLOBAL_SETTING_GLEAM_ENABLED"=dword:00000000
+"NOC_GLOBAL_SETTING_BADGE_ENABLED"=dword:00000000
+"NOC_GLOBAL_SETTING_ALLOW_TOASTS_ABOVE_LOCK"=dword:00000000
+"NOC_GLOBAL_SETTING_ALLOW_CRITICAL_TOASTS_ABOVE_LOCK"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer]
+"EnableAutoTray"=dword:00000000
+"ExplorerStartupTraceRecorded"=dword:00000000
+; #
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\OneDrive]
+"EnableDownlevelInstallOnBluePlus"=dword:00000000
+"EnableTHDFFeatures"=dword:00000000
+"MultiAccountRegMigrationComplete"=dword:00000000
+"OSVerODRanFirstTime"=""
+"SCOOBEOptIn"=dword:00000000
+"PreSignInSettingsConfigTimestamp"=hex(b):00,00,00,00,00,00,00,00
+"UpdateRingSettingsLastSuccess"=dword:00000000
+"FileCoAuthTelemetryRampStatus"=dword:00000000
+"FileCoAuthFeatureRampStatusFlags"=dword:00000000
+"FileCoAuthUriSourceRampStatus"=dword:00000000
+"OOBERedirection"=dword:00000000
+"ClientConfigTelemetryTimeStamp"=hex(b):00,00,00,00,00,00,00,00
+"UpdateXMLRescanTime"=dword:00000000
+"UpdateXMLTimestamp"==hex(b):00,00,00,00,00,00,00,00
+"FileSyncShellKillSwitchFlag"=dword:00000000
+"StandaloneUpdaterSafeMode"=dword:00000000
+"SCOOBEScanResult"=dword:00000000
+"SCOOBEFolderSizeMB"=dword:000000000
+"UserInitiatedUninstall"=dword:00000000
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"WindowArrangementActive"="0"
+; #
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects]
+"VisualFXSetting"=dword:00000002
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\AnimateMinMax]
+"DefaultApplied"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\ComboBoxAnimation]
+"DefaultApplied"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\ControlAnimations]
+"DefaultApplied"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\CursorShadow]
+"DefaultApplied"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\DragFullWindows]
+"DefaultApplied"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\DropShadow]
+"DefaultApplied"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\DWMAeroPeekEnabled]
+"DefaultApplied"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\DWMEnabled]
+"DefaultApplied"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\DWMSaveThumbnailEnabled]
+"DefaultApplied"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\ListBoxSmoothScrolling]
+"DefaultApplied"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\ListviewAlphaSelect]
+"DefaultApplied"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\ListviewShadow]
+"DefaultApplied"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\MenuAnimation]
+"DefaultApplied"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\SelectionFade]
+"DefaultApplied"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\TaskbarAnimations]
+"DefaultApplied"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\Themes]
+"DefaultApplied"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\ThumbnailsOrIcon]
+"DefaultApplied"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\TooltipAnimation]
+"DefaultApplied"=dword:00000000
+; #
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\TabletTip\1.7]
+"EnableAutocorrection"=dword:00000000
+"EnableSpellchecking"=dword:00000000
+"EnableTextPrediction"=dword:00000000
+"EnablePredictionSpaceInsertion"=dword:00000000
+"EnableDoubleTapSpace"=dword:00000000
+"EnableInkingWithTouch"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\PushNotifications]
+"DatabaseMigrationCompleted"=dword:00000000
+"ToastEnabled"=dword:00000000
+"LockScreenToastEnabled"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search]
+"SearchboxTaskbarMode"=dword:00000000
+"CortanaEnabled"=dword:00000000
+"MouseSpeed"=dword:00000000
+"CortanaConsent"=dword:00000000
+"BingSearchEnabled"=dword:00000000
+"BackgroundAppGlobalToggle"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Cortana]
+"CortanaInstalledAtSomePoint"=dword:00000000
+"IsAvailable"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search\Flighting\1\CloudMusic]
+"Value"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search\Flighting\1\LocationReminderDesktopOnUnlockRadius]
+"Value"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search\Flighting\1\LocationReminderDesktopOnUnlockSpan]
+"Value"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search\Flighting\1\DesktopLocationTriggering]
+"Value"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search\Flighting\1\ReminderNotificationTemplate]
+"Value"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search\Flighting\1\ReminderCloudUx]
+"Value"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\CloudStore]
+"Version"=dword:00000000
+"VersionInit"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\CloudStore\StoreInit]
+"HasStoreCacheInitialized"=dword:00000000
+"HasPolicyMirrorRun"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\CloudStore\SystemMetaData]
+"HasCuratedTileCollectionsInitialized"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize]
+"EnableTransparency"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search\Flighting\1\ShowSearchGlyphLeftOfSearchBox]
+"Value"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search\Flighting\1\ReminderCloudUx]
+"Value"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search\Flighting\1\SearchBoxIbeamPointerOnHover]
+"Value"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\TabletTip\1.7]
+"EnableAutocorrection"=dword:00000000
+"EnableSpellchecking"=dword:00000000
+"EnableTextPrediction"=dword:00000000
+"EnablePredictionSpaceInsertion"=dword:00000000
+"EnableDoubleTapSpace"=dword:00000000
+"EnableInkingWithTouch"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\TabletTip\1.7\EnableAutocorrection]
+@=dword:00000000
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\AdvertisingInfo]
+"Enabled"=dword:00000000
+[HKEY_CURRENT_USER\Control Panel\International\User Profile]
+"HttpAcceptLanguageOptOut"=dword:00000001
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager]
+"SubscribedContent-338393Enabled"=dword:00000000
+"SubscribedContent-338394Enabled"=dword:00000000
+"SubscribedContent-338396Enabled"=dword:00000000
+"SubscribedContent-338389Enabled"=dword:00000000
+"SubscribedContent-338388Enabled"=dword:00000000
+"PreInstalledAppsEnabled"=dword:00000000
+"PreInstalledAppsEverEnabled"=dword:00000000
+"OemPreInstalledAppsEnabled"=dword:00000000
+[HKEY_CURRENT_USER\Software\Microsoft\Personalization\Settings]
+"AcceptedPrivacyPolicy"=dword:00000000
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\SettingSync\Groups\Language]
+"Enabled"=dword:00000000
+[HKEY_CURRENT_USER\Software\Microsoft\InputPersonalization]
+"RestrictImplicitTextCollection"=dword:00000001
+"RestrictImplicitInkCollection"=dword:00000001
+[HKEY_CURRENT_USER\Software\Microsoft\InputPersonalization\TrainedDataStore]
+"HarvestContacts"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Diagnostics\DiagTrack]
+"ShowedToastAtLevel"=dword:00000000
+; #
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\GameBar]
+"GamepadDoublePressIntervalMs"=dword:00000000
+"UseNexusForGameBarEnabled"=dword:00000000
+"AutoGameModeEnabled"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\GameBarApi\Input]
+"InputRedirected"=dword:00000000
+; #  
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Internet Explorer\Main]
+"Anchor Underline"="no"
+"Cache_Update_Frequency"="no"
+"Disable Script Debugger"="no"
+"DisableScriptDebuggerIE"="no"
+"Display Inline Images"="no"
+"Do404Search"==hex(b):00,00,00,00,00,00,00,00
+"Local Page"=""
+"Save_Session_History_On_Exit"="no"
+"Search Page"=""
+"Show_FullURL"="no"
+"Show_StatusBar"="no"
+"Show_ToolBar"="no"
+"Show_URLinStatusBar"="no"
+"Show_URLToolBar"="no"
+"Use_DlgBox_Colors"="no"
+"UseClearType"="no"
+"XMLHTTP"=dword:00000000
+"Enable Browser Extensions"="no"
+"Play_Background_Sounds"="no"
+"Play_Animations"="no"
+"Start Page"=""
+"ImageStoreRandomFolder"=""
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\EdgeUpdate]
+"LastLogonTime-Machine"=hex(b):00,00,00,00,00,00,00,00
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Internet Explorer\BrowserEmulation]
+"CVListTTL"=dword:00000000
+"UnattendLoaded"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Internet Explorer\Toolbar]
+"Locked"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Internet Explorer\TabbedBrowsing]
+"TabsStickyMode"=dword:00000000
+; #
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Privacy]
+"NumberOfSIUFInPeriod"=dword:00000000
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications]
+"GlobalUserDisabled"=dword:00000001
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"HideFileExt"=dword:00000000
+"TaskbarAnimations"=dword:00000000
+"ShowCortanaButton"=dword:00000000
+"ListviewShadow"=dword:00000000
+"StoreAppsOnTaskbar"=dword:00000000
+"HideFileExt"=dword:00000001
+"DontPrettyPath"=dword:00000000
+"Start_TrackProgs"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Holographic\StageManagement]
+"DisableQuickRoomSetup"=dword:00000001
+"DisableStageNearbyRequirement"=dword:00000001
+[HKEY_CURRENT_USER\Software\Microsoft\Narrator\NoRoam]
+"RunningState"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\NGC\NgcTelemetryLoggedTime]
+"NgcTelemetryLoggedTime"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\PenWorkspace]
+"PenWorkspaceAppSuggestionsEnabled"=dword:00000000
+"PenWorkspaceButtonDesiredVisibility"=dword:00000000
+"PenWorkspaceAppLaunchOnPenDetachEnabled"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers]
+"DisableAutoplay"=dword:00000000
+[HKEY_CURRENT_USER\Software\Microsoft\GameBar]
+"UseNexusForGameBarEnabled"=dword:00000000
+"AutoGameModeEnabled"=dword:00000000
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\People]
+"PeopleBand"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\CDP]
+"RomeSdkChannelUserAuthzPolicy"=dword:00000000
+"NearShareChannelUserAuthzPolicy"=dword:00000000
+"EnableRemoteLaunchToast"=dword:00000000
+"CdpSessionUserAuthzPolicy"=dword:00000000
+; #
+; {{[HKLM]}} ################################
+; INPUT MS TABLET
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\TouchPrediction]
+"Latency"=dword:00000000
+"SampleTime"=dword:00000000
+"UseHWTimeStamp"=dword:00000001
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\SystemServices\ConfigureXboxAccessoryManagementServiceStartupMode]
+"Behavior"=dword:00000000
+"highrange"=dword:00000000
+"lowrange"=dword:00000000
+"mergealgorithm"=dword:00000000
+"policytype"=dword:00000000
+"translationDllPath"=""
+"value"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\SystemServices\ConfigureXboxLiveAuthManagerServiceStartupMode]
+"Behavior"=dword:00000000
+"highrange"=dword:00000000
+"lowrange"=dword:00000000
+"mergealgorithm"=dword:00000000
+"policytype"=dword:00000000
+"value"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\SystemServices\ConfigureXboxLiveGameSaveServiceStartupMode]
+"Behavior"=dword:00000000
+"highrange"=dword:00000000
+"lowrange"=dword:00000000
+"mergealgorithm"=dword:00000000
+"policytype"=dword:00000000
+"value"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\SystemServices\ConfigureXboxLiveNetworkingServiceStartupMode]
+"Behavior"=dword:00000000
+"highrange"=dword:00000000
+"lowrange"=dword:00000000
+"mergealgorithm"=dword:00000000
+"policytype"=dword:00000000
+"translationDllPath"=""
+"value"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\SOFTWARE\Microsoft\Windows\CurrentVersion\Diagnostics\DiagTrack]
+"UploadPermissionReceived"=dword:00000000
+"DiagTrackAuthorization"=dword:00000000
+"DiagTrackStatus"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerThrottling]
+"PowerThrottlingOff"=dword:00000001
+; #
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender]
+"DisableAntiSpyware"=dword:00000001
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection]
+"DisableBehaviorMonitoring"=dword:00000001
+"DisableOnAccessProtection"=dword:00000001
+"DisableScanOnRealtimeEnable"=dword:00000001
+"LocalSettingOverrideDisableOnAccessProtection"=dword:00000001
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet]
+"EnableActiveProbing"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\System\AllowLocation]
+"Behavior"=dword:00000000
+"highrange"=dword:00000000
+"lowrange"=dword:00000000
+"mergealgorithm"=dword:00000000
+"policytype"=dword:00000000
+"value"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\System\AllowTelemetry]
+"Behavior"=dword:00000000
+"highrange"=dword:00000000
+"lowrange"=dword:00000000
+"mergealgorithm"=dword:00000000
+"policytype"=dword:00000000
+"value"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\System\TelemetryProxy]
+"Behavior"=dword:00000000
+"mergealgorithm"=dword:00000000
+"policytype"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\System\DisableDiagnosticDataViewer]
+"Behavior"=dword:00000000
+"highrange"=dword:00000000
+"lowrange"=dword:00000000
+"mergealgorithm"=dword:00000000
+"policytype"=dword:00000000
+"value"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\System\AllowUserToResetPhone]
+"Behavior"=dword:00000000
+"highrange"=dword:00000000
+"lowrange"=dword:00000000
+"mergealgorithm"=dword:00000000
+"policytype"=dword:00000000
+"value"=dword:00000000
+; AccessManager ################################
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\activity]
+"Value"="Deny"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\appDiagnostics]
+"Value"="Deny"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\appointments]
+"Value"="Deny"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\bluetooth]
+"Value"="Deny"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\bluetoothSync]
+"Value"="Deny"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\cellularData]
+"Value"="Deny"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\chat]
+"Value"="Deny"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\contacts]
+"Value"="Deny"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\email]
+"Value"="Deny"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\gazeInput]
+"Value"="Deny"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\location]
+"Value"="Deny"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\phoneCall]
+"Value"="Deny"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\phoneCallHistory]
+"Value"="Deny"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\radios]
+"Value"="Deny"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\sensors.custom]
+"Value"="Deny"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\serialCommunication]
+"Value"="Deny"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\userAccountInformation]
+"Value"="Deny"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\userDataTasks]
+"Value"="Deny"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\userNotificationListener]
+"Value"="Deny"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\wifiData]
+"Value"="Deny"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\wiFiDirect]
+"Value"="Deny"
+; #
